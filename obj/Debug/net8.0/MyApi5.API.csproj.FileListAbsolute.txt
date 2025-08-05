@@ -156,3 +156,4 @@ C:\Users\movlu\source\repos\MyApi5.API\MyApi5.API\bin\Debug\net8.0\Microsoft.Ext
 C:\Users\movlu\source\repos\MyApi5.API\MyApi5.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\movlu\source\repos\MyApi5.API\MyApi5.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\movlu\source\repos\MyApi5.API\MyApi5.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\movlu\source\repos\MyApi5.API\MyApi5.API\obj\Debug\net8.0\MyApi5.API.sourcelink.json
