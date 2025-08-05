@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyApi5.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3afabb7bd5bc3687621e0fa1ec55a41ddf7c817")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b50bf00e24a1b08842c65a3c62712ef7367180")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyApi5.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyApi5.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
