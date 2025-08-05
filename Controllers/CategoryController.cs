@@ -70,7 +70,7 @@ namespace MyApi5.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add([FromBody] CategoryPostDto postDto)
+        public async Task<IActionResult> Add([FromBody] CategoryPostDto postDto) 
         {
             try
             {
